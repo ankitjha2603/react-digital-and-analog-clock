@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-digital-and-analog-clock/static/css/main.22586914.css",
+    "main.js": "/react-digital-and-analog-clock/static/js/main.51767999.js",
+    "static/media/clock.png": "/react-digital-and-analog-clock/static/media/clock.1a0191b72db504d3beae.png",
+    "static/media/digital.ttf": "/react-digital-and-analog-clock/static/media/digital.93911ab167c943140756.ttf",
+    "index.html": "/react-digital-and-analog-clock/index.html",
+    "main.22586914.css.map": "/react-digital-and-analog-clock/static/css/main.22586914.css.map",
+    "main.51767999.js.map": "/react-digital-and-analog-clock/static/js/main.51767999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22586914.css",
+    "static/js/main.51767999.js"
+  ]
+}
